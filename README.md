@@ -1,5 +1,4 @@
-# node-tutorial-project
-nodejs outline project
+# Node Tutorial Project
 
 <h3>So we start with trying to to make a server</h3>
 
