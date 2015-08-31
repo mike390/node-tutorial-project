@@ -60,8 +60,8 @@ Task 13:
     
 <h3>Next steps</h3>
 
-    - promisify any of your chains of functions to avoid callbacks
-    - add in html and return that instead!
+    - promisify any of your chains of functions to avoid callbacks (bluebird is the node module)
+    - add in html and return that instead
     - use angular with node to make up a simple Hello World webpage
     - update angular to be react
 
