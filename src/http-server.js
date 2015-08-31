@@ -26,6 +26,8 @@ function saveToRedis(key, value) {
     var redisClient = redis.createClient();
 
     redisClient.SET(key, value);
+
+    redisClient.quit();
 }
 
 app.post('/', function (request, response) {
