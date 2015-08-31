@@ -1,7 +1,7 @@
 # node-tutorial-project
 nodejs outline project
 
-<h3>So we start with trying to to make a server<h3>
+<h3>So we start with trying to to make a server</h3>
 
 Task 1 - making it run:
 
@@ -20,7 +20,7 @@ Task 5 - write a test that asserts the json is produced
 
 
 
-<h3>Next we'll try to make it take a POST request<h3>
+<h3>Next we'll try to make it take a POST request</h3>
 
 Task 6:
 
@@ -31,7 +31,7 @@ Task 7:
     - make the http server take a POST request
 
 
-<h3>Now we'll make it store something<h3>
+<h3>Now we'll make it store something</h3>
 
 Task 8:
 
