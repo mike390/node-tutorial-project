@@ -9,9 +9,9 @@ app.get('/', function (request, response) {
 });
 
 var server = app.listen(PORT, function () {
-    console.log('listening on port', PORT);
+    console.log('http server listening on port', PORT);
 });
 
 exports.stop = function() {
     server.close();
-}
+};
