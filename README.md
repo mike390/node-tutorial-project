@@ -57,3 +57,12 @@ Task 12:
 Task 13:
 
     - make it store the value of anything in the POST to redis
+    
+<h3>Next steps</h3>
+
+    - promisify any of your chains of functions to avoid callbacks
+    - add in html and return that instead!
+    - use angular with node to make up a simple Hello World webpage
+    - update angular to be react
+
+    
